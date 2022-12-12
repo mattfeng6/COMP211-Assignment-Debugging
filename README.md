@@ -160,7 +160,7 @@ services:
 
 Using your new knowledge of error types and debugging methods, try to get this program to execute correctly!
 
-### Practice Code
+### Crash.c
 
 ```
 #include<stdio.h>
